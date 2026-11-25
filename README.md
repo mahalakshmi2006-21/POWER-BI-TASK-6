@@ -100,12 +100,7 @@ The report includes the **Fluent 2** base theme and a dark custom theme resource
 - Sorting visual data
 - Report page formatting and themes
 
-## 7. Screenshot
-
-<img width="1328" height="742" alt="Screenshot 2026-10-16 182456" src="https://github.com/user-attachments/assets/cf066d1f-4ef8-45f5-9b44-538793dc7190" />
-
-
-## 8. Conclusion
+## 7. Conclusion
 
 This Power BI task demonstrates how healthcare data can be summarized in an interactive dashboard. KPI cards provide quick totals, charts compare admissions across hospitals and categories, the line chart shows yearly trends, and slicers allow users to explore the data by admission type and insurance provider.
 
